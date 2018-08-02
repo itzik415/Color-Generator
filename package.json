@@ -1,0 +1,19 @@
+{
+  "name": "color-generator",
+  "version": "1.0.0",
+  "description": "Color Generator for choosing the right color",
+  "main": "color_generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itzik415/Color-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itzik415/Color-Generator/issues"
+  },
+  "homepage": "https://github.com/itzik415/Color-Generator#readme"
+}
